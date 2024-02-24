@@ -3,7 +3,7 @@
 I like people, to work with people and help people as much as possible, because a phrase I carry with me is "people need people".
 - 🏡 I love being with my family and friends, they are everything to me.
 - 👀 I’m interested (in my free time)in drawing, making miniatures from wood and sport fishing.
-- 👨‍🎓 My academic life <a href = ""><b>here</b></a>!
+- 👨‍🎓 My academic life <a href = "https://github.com/MickyNM/list-of-courses"><b>here</b></a>!
 
 
 <!---
