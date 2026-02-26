@@ -5,6 +5,7 @@ I like people, to work with people and help people as much as possible, because 
 - 👀 I’m interested (in my free time)in drawing, making miniatures from wood and sport fishing.
 - 👨‍🎓 My academic life <a href = "https://github.com/MickyNM/list-of-courses"><b>here</b></a>!
 
+- <a href = "https://github.com/MickyNM/Portfolio"><b> Portfolio </b></a>!
 
 <!---
 MickyNM/MickyNM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
